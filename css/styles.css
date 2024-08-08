@@ -51,7 +51,7 @@ p {
 }
 
 .header {
-  padding: 24px 156px;
+  /* padding: 24px 156px; */
 }
 
 .header-width {
@@ -107,7 +107,7 @@ p {
 
 .title {
   background-color: #2e2f42;
-  padding: 188px 472px;
+  /* padding: 188px 472px; */
 }
 .title-main {
   margin: 0 auto;
@@ -116,7 +116,7 @@ p {
 }
 .title-button {
   margin: 0 auto;
-  padding: 16px 32px;
+  /* padding: 16px 32px; */
   background: #4d5ae5;
   color: #fff;
   cursor: pointer;
@@ -135,15 +135,15 @@ p {
 }
 
 .columns {
-  padding: 120px 156px;
+  /* padding: 120px 156px; */
 }
 
 .columns-list {
 }
 
 .columns-item {
-  max-width: 264px;
-  max-height: 104px;
+  /* width: 264px; */
+  /* height: 104px; */
 }
 
 .columns-title {
@@ -155,7 +155,7 @@ p {
 
 .team {
   background-color: #f4f4fd;
-  padding: 120px 156px;
+  /* padding: 120px 156px; */
 }
 .team-title {
   text-align: center;
@@ -164,8 +164,8 @@ p {
 .team-list {
 }
 .team-item {
-  max-width: 264px;
-  max-height: 380px;
+  /* width: 264px; */
+  /* height: 380px; */
   background: #fff;
 }
 .team-subtitle {
@@ -182,7 +182,7 @@ p {
 }
 
 .portfolio {
-  padding: 120px 156px;
+  /* padding: 120px 156px; */
 }
 
 .portfolio-title {
@@ -204,7 +204,7 @@ p {
 
 .footer {
   background-color: #2e2f42;
-  padding: 100px 156px;
+  /* padding: 100px 156px; */
 }
 .footer-width {
   max-width: 1128px;
