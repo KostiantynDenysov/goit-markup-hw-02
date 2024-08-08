@@ -70,7 +70,7 @@ p {
   letter-spacing: 0.03em;
   color: #4d5ae5;
 }
-.logo-color {
+.header-color {
   color: #2e2f42;
 }
 
@@ -142,8 +142,8 @@ p {
 }
 
 .columns-item {
-  width: 264px;
-  height: 104px;
+  max-width: 264px;
+  max-height: 104px;
 }
 
 .columns-title {
@@ -164,11 +164,8 @@ p {
 .team-list {
 }
 .team-item {
-  width: 264px;
-  height: 380px;
-  border-radius: 0 0 4px 4px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  max-width: 264px;
+  max-height: 380px;
   background: #fff;
 }
 .team-subtitle {
@@ -223,12 +220,15 @@ p {
   color: #4d5ae5;
   margin-bottom: 16px;
 }
+.footer-color {
+  color: #f4f4fd;
+}
 .footer-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  width: 264px;
-  height: 72px;
+  max-width: 264px;
+  max-height: 72px;
 }
